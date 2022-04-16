@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-rewrite",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Override React build Configuration and scripts for Create React App, tweak the create-react-app webpack config(s) without using 'eject' and without creating a fork of the react-scripts.",
   "license": "MIT",
   "author": {

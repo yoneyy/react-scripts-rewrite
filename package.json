@@ -1,8 +1,12 @@
 {
   "name": "react-scripts-rewrite",
   "version": "0.1.10",
-  "description": "Override React build Configuration and scripts for Create React App.",
+  "description": "Override React build Configuration and scripts for Create React App, tweak the create-react-app webpack config(s) without using 'eject' and without creating a fork of the react-scripts.",
   "license": "MIT",
+  "author": {
+    "name": "yoneyy (y.tianyuan)",
+    "email": "yoneyy@163.com"
+  },
   "repository": {
     "type": "github",
     "url": "https://github.com/yoneyy/react-scripts-rewrite.git"
@@ -105,6 +109,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "gitHead": "19fa58d527ae74f2b6baa0867463eea1d290f9a5"
+  }
 }

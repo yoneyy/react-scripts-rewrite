@@ -2,7 +2,7 @@
  * @Author: Yoneyy (y.tianyuan) 
  * @Date: 2022-03-18 02:10:53 
  * @Last Modified by: Yoneyy (y.tianyuan)
- * @Last Modified time: 2022-03-22 20:57:09
+ * @Last Modified time: 2022-08-20 18:18:04
  */
 
 /**
@@ -17,6 +17,7 @@ const path = require('path');
  * @returns
  */
 function overrides() {
+  // Get the configuration file of the current project
   const overrideConfigPath = path.resolve('./config-overrides.js');
   const {
     rules = [],
